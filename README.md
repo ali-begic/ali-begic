@@ -16,6 +16,7 @@ Hello! I'm Ali, a passionate high school student with a keen interest in program
 - **Current Projects:**
   - **Grades:** A Qt C++ application for managing and tracking school grades. It includes features for adding, removing, and updating subjects and grades, with functionality for calculating averages and displaying progress.
   - **Folder Deleter:** A Qt-based C++ application designed to automate the deletion of folders with the same name across multiple directories, including handling hidden folders and subdirectories.
+  - **Latin - Cyrillic Converter:** A Qt C++ application that converts text between Latin and Cyrillic scripts, offering an intuitive interface for quick and accurate script conversion.
 
 ### What I Enjoy
 
